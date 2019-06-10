@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1559851543 source:c:\users\daniel jab這雟ki\desktop\grafy\grafy\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<algorithm>
+	<conio.h>
+	"element.h"
+	"elemListy.h"
+	"grafLista.h"
+	"grafMacierz.h"
+	"kolejka.h"
+	"krawedz.h"
+	"lista.h"
+	"Prim.h"
+	"kruskal.h"
+	<ctime>
+
+1559606659 c:\users\daniel jab這雟ki\desktop\grafy\grafy\element.h
+	<cstddef>
+	<iostream>
+	<cstdlib>
+	"krawedz.h"
+
+1559606659 c:\users\daniel jab這雟ki\desktop\grafy\grafy\krawedz.h
+
+1559606659 c:\users\daniel jab這雟ki\desktop\grafy\grafy\elemlisty.h
+	"krawedz.h"
+
+1559606659 c:\users\daniel jab這雟ki\desktop\grafy\grafy\graflista.h
+	<fstream>
+	<iostream>
+	"grafMacierz.h"
+	"kolejka.h"
+	"element.h"
+
+1559606659 c:\users\daniel jab這雟ki\desktop\grafy\grafy\grafmacierz.h
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<ctime>
+	"krawedz.h"
+
+1559606659 c:\users\daniel jab這雟ki\desktop\grafy\grafy\kolejka.h
+	<iostream>
+	"element.h"
+	"krawedz.h"
+
+1559606659 c:\users\daniel jab這雟ki\desktop\grafy\grafy\lista.h
+	<iostream>
+	"krawedz.h"
+	"elemListy.h"
+
+1559607806 c:\users\daniel jab這雟ki\desktop\grafy\grafy\prim.h
+	"grafMacierz.h"
+	<vector>
+	"lista.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+
+1559606659 c:\users\daniel jab這雟ki\desktop\grafy\grafy\kruskal.h
+	"grafMacierz.h"
+	"krawedz.h"
+
